@@ -19,3 +19,5 @@ audio.addEventListener('timeupdate',()=>{
 volume.addEventListener('change', ()=>{
     audio.volume=volume.value;
 })
+
+//nice experience
